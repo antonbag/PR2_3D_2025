@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: brick
+  m_Name: rustic
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -29,11 +29,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 7f214bae5fc4bfdb4974bb41b8261a6c, type: 3}
+        m_Texture: {fileID: 2800000, guid: c085c1edf31c27ee9aeae4dc03c00a3b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: d4b4410f9a106a23786222f3fab768b4, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5e8f98477b48c4e91a081b2d809bd3fb, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -53,19 +53,19 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 7f214bae5fc4bfdb4974bb41b8261a6c, type: 3}
+        m_Texture: {fileID: 2800000, guid: c085c1edf31c27ee9aeae4dc03c00a3b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: 152f51e32c436d372983f44764ab2016, type: 3}
+        m_Texture: {fileID: 2800000, guid: 07ef04f8e9da347f9be60cf4d7a22bcf, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 2800000, guid: 1bf1a99126ef33b1d95fb05309ba82d4, type: 3}
+        m_Texture: {fileID: 2800000, guid: ad0384488d57bde7aa443302d9c44927, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
-        m_Texture: {fileID: 2800000, guid: 9ae4105de1fb678f6bc29fec9cc9eb1e, type: 3}
+        m_Texture: {fileID: 2800000, guid: 07ef04f8e9da347f9be60cf4d7a22bcf, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
@@ -103,12 +103,12 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _Metallic: 1
-    - _OcclusionStrength: 0.52
+    - _Metallic: 0.566
+    - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Smoothness: 0.275
+    - _Smoothness: 0.325
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -117,12 +117,12 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 1, g: 0.7840521, b: 0.7122642, a: 1}
-    - _Color: {r: 1, g: 0.7840521, b: 0.7122642, a: 1}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &8734692739000646052
+--- !u!114 &4895586647433853586
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
