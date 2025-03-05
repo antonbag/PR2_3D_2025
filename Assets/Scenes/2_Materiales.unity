@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 6f1e23cad15a9f4cf9073a884ab17683, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -374,13 +374,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 705677422}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.49586153, y: -0.48626196, z: 0.4058581, w: -0.5940958}
+  m_LocalRotation: {x: -0.111708604, y: -0.62674683, z: 0.09143246, w: -0.7657347}
   m_LocalPosition: {x: -32.9, y: 0.43, z: 0.15}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: -640.3, y: -281.4, z: 0}
+  m_LocalEulerAnglesHint: {x: -703.4, y: -281.4, z: 0}
 --- !u!114 &705677425
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -464,7 +464,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c5a3d781ad2dc2095b7ad0d0eebaba79, type: 2}
+  - {fileID: 2100000, guid: 17767ff23fb1977dd96d4547ca3d9c52, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -678,7 +678,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c5a3d781ad2dc2095b7ad0d0eebaba79, type: 2}
+  - {fileID: 2100000, guid: 17767ff23fb1977dd96d4547ca3d9c52, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -783,7 +783,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c5a3d781ad2dc2095b7ad0d0eebaba79, type: 2}
+  - {fileID: 2100000, guid: 17767ff23fb1977dd96d4547ca3d9c52, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
